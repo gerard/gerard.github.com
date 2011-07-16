@@ -1,0 +1,35 @@
+---
+layout: post
+title: I'm writing a blog again, and text files is the way to go
+---
+
+p(meta). 15 Jul 2011 - Helsinki
+
+Despite all these years of neglect, I've noticed that there's still people that 
+for one reason or another end up in my blog.  This is slightly embarrasing, 
+since it's running on a slow VPS host, using a Wordpress that could be easily 
+over 4 years old.  Most probably there are some touches of comment spam here 
+and there.
+
+I'm hopefully changing this soon (not the random visitors, those I want to 
+keep.)  In order to preserve my sanity, the first thing I'm getting rid of is 
+Wordpress.  Websites that run dynamic code, no matter the framework, need some 
+nice hosting and are a maintenance burden.  So I'm moving to text files spiced 
+up with a bit of textile.  I confess that I've chosen the path of least 
+resistance when chosing Jekyll as my site generator: I'm already sold to github 
+as my repository hosting.  But, in the end, what's important is not the tools 
+you are using, it's the content and how that's handled.
+
+And the reason I say this, is because I've lost my content before.  To be fair, 
+I didn't care that much about it then.  But, had it been easier, I'd have that 
+now with me.  Keeping the content in a nice SQL database is way of an overkill 
+for a blog, and it makes you dependant on your tools.  You cannot replace 
+Wordpress with Movable Type without a significant amount of work.
+
+On the other hand, text files backups are as easy as it gets, can be edited 
+anywhere with any editor and can be easily stored, distributed or deployed by 
+using git.  It's the perfect fit for a codemonkey like me, give me some version 
+control and an editor and I will feel right at home.
+
+With my motives out of the way, I'll start moving content from my old blog.  
+Just don't wait around... it might take a while.
