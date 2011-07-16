@@ -104,7 +104,7 @@ h1, h2, h3, #footer {
 h1 { 
   font-size: 36px; 
   line-height: 36px;
-  margin-top: 18px;
+  padding-top: 18px;
   margin-bottom: 3px;
   text-align: center;
 }
@@ -138,6 +138,12 @@ ul { list-style-type: square; }
   background: #C7B795;
   margin: auto;
   width: 620px;
+}
+
+#main-big {
+  background: #C7B700;
+  margin: auto;
+  width: 860px;
 }
 
 #links {

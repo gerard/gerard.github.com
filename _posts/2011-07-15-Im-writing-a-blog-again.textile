@@ -3,8 +3,6 @@ layout: post
 title: I'm writing a blog again, and text files is the way to go
 ---
 
-p(meta). 15 Jul 2011 - Helsinki
-
 Despite all these years of neglect, I've noticed that there's still people that 
 for one reason or another end up in my blog.  This is slightly embarrasing, 
 since it's running on a slow VPS host, using a Wordpress that could be easily 
